@@ -1,0 +1,2 @@
+# Security team must approve all auth changes
+/src/auth/** @VICTIM_USERNAME
